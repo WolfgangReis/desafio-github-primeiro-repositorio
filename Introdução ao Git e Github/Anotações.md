@@ -8,7 +8,7 @@ Este material contém algumas anotações com passo a passo de como criar um rep
 
 O **Git Bash** é o terminal através do qual será possível utilizar as funções do Git. Para abri-lo, basta clicar com o botão direito d mouse em alguma pasta, ou mesmo na área de trabalho, e selecionar a opção **Git Bash Here**. Aparecerá uma janela com esta abaixo.
 
-![Console Git](C:/workspace/Desafio/desafio-github-primeiro-repositorio/Introdução ao Git e Github/Console Git.JPG)
+![Console Git](https://drive.google.com/file/d/1H_Dwxdou4MdtrC86LzQYgKtDXdupj6DZ/view?usp=sharing)
 
 
 
