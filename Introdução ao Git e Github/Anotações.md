@@ -36,7 +36,7 @@ Depois de criado o repositório, acesse o repositório no seu perfil do Github e
 
 Copiada a chave, vá ao **Git Bash** aberto na página desejada e digite o comando ***git clone*** seguido do link que você acabou de copiar. Aperte a tecla **Enter**.
 
-![clonando](C:\Users\Wolfgang Ribeiro\AppData\Roaming\Typora\typora-user-images\image-20220429215730736.png)
+![clonando](https://github.com/WolfgangReis/desafio-github-primeiro-repositorio/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20Github/clone1.JPG?raw=true)
 
 Com isso, um novo diretório será criado em sua máquina. Você pode acessá-lo utilizando o comando ***cd*** seguido do nome do repositório.
 
